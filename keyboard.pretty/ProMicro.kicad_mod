@@ -1,5 +1,5 @@
-(module ProMicro (layer F.Cu) (tedit 5F3D16FD)
-  (fp_text reference U1 (at 0 -17.78) (layer F.SilkS) hide
+(module ProMicro (layer F.Cu) (tedit 5F3FCFA4)
+  (fp_text reference U1 (at 0 -17.78) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value ProMicro (at 0 -15.24 180) (layer F.SilkS)
